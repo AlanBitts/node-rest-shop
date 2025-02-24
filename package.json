@@ -1,0 +1,14 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A node.js RESTfull API tutorial Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Viveiros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
